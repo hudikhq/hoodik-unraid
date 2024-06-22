@@ -10,7 +10,7 @@
    <Support>https://forums.unraid.net/topic/143789-support-hoodik-end-2-end-encrypted-storage-drive/</Support>
    <Project>https://github.com/hudikhq/hoodik</Project>
    <Overview>Hoodik is a lightweight, secure, and self-hosted cloud storage solution. It's designed and built with Rust and Vue, focusing on end-to-end encryption that shields your data from prying eyes and hackers. Hoodik supports file uploading and downloading, making it easy for you to share files with other users. The simple and intuitive web interface makes file management a breeze. Thanks to Rust's focus on speed and performance, your data transfers will be lightning fast.</Overview>
-   <Category>Backup: Cloud: Security: Tools: Status:Beta</Category>
+   <Category>Backup: Cloud: Security: Tools:</Category>
    <WebUI>https://[IP]:[PORT:4554]/</WebUI>
    <TemplateURL />
    <Icon>https://raw.githubusercontent.com/hudikhq/hoodik-unraid/main/images/hoodik.png</Icon>
